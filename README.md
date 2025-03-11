@@ -1,9 +1,9 @@
-This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. We utilize Python for data processing and analysis, SQL for querying, and structured problem-solving techniques to solve key business questions. The project is ideal for data analysts looking to develop skills in data manipulation, SQL querying, and data pipeline creation.
+This project is an end-to-end Power Bi Dashboard designed to extract critical business insights from Walmart sales data. We utilize Python for data processing and analysis, SQL for querying, and structured problem-solving techniques to solve key business questions. The project is ideal for data analysts looking to develop skills in data manipulation, SQL querying, and dashboard design using Power BI.
 
 Project Steps
 
 1. Set Up the Environment
-Tools Used: Visual Studio Code (VS Code), Python, SQL (MySQL)
+Tools Used: Visual Studio Code (VS Code), Python, SQL (MySQL), Power BI
 Goal: Create a structured workspace within VS Code and organize project folders for smooth development and data handling.
 
 2. Downloaded dataset from Kaggle
@@ -32,12 +32,10 @@ Create New Columns: Calculate the Total Amount for each transaction by multiplyi
     Analyzing peak sales periods and customer buying patterns.
     Profit margin analysis by branch and category.
 
+7. Designed Power BI dashboard to visualize and analyze key project metrics, providing actionable insights.
+
 Results and Insights 
 Sales Insights: Key categories, branches with highest sales, and preferred payment methods.
 Profitability: Insights into the most profitable product categories and locations.
 Customer Behavior: Trends in ratings, payment preferences, and peak shopping hours.
-
-Future Enhancements
-Possible extensions to this project:
-Integration with a dashboard tool (e.g., Power BI or Tableau) for interactive visualization.
    
