@@ -39,3 +39,4 @@ Sales Insights: Key categories, branches with highest sales, and preferred payme
 Profitability: Insights into the most profitable product categories and locations.
 Customer Behavior: Trends in ratings, payment preferences, and peak shopping hours.
    
+![Walmart_Dashboard_page-0001](https://github.com/user-attachments/assets/b2737e5c-c125-4e9c-a561-e32419f1211d)
